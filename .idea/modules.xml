@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/yolov8.iml" filepath="$PROJECT_DIR$/.idea/yolov8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/all_inference_and_looping_colabs_in_.py_files.iml" filepath="$PROJECT_DIR$/.idea/all_inference_and_looping_colabs_in_.py_files.iml" />
     </modules>
   </component>
 </project>
